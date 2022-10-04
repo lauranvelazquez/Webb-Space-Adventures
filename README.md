@@ -14,6 +14,7 @@ Video game developed in Unity about the James Webb telescope for the Nasa Space 
 - End Scene: final scene. 
 
 ## Resources
-- Nasa James Webb Images 
+- Nasa James Webb Images https://www.flickr.com/photos/nasawebbtelescope/albums
+- James Webb Launch Video - NASA en español - Youtube 
 - Space Apps Challenge Images
 - Project Info: https://2022.spaceappschallenge.org/challenges/2022-challenges/through-the-looking-glass/teams/cloudhack-53/project 
